@@ -1,1 +1,26 @@
+Política de Privacidade
+Última atualização: julho de 2026
+
+Esta Política de Privacidade descreve como o sistema "Fábrica de Conteúdo Motivacional" trata dados no âmbito de sua integração com a API do TikTok for Developers.
+
+1. Dados tratados
+O sistema processa apenas os dados estritamente necessários para autenticar e publicar conteúdo na conta do TikTok associada ao operador do serviço, incluindo:
+
+Tokens de acesso e atualização (OAuth) da conta do TikTok conectada;
+Identificadores básicos da conta (user info), quando aplicável;
+Metadados dos vídeos publicados (título, legenda, hashtags, data).
+2. Dados de terceiros
+Este sistema não coleta, armazena nem processa dados pessoais de usuários finais do TikTok. Ele não interage com seguidores, comentários ou qualquer informação de outros usuários da plataforma.
+
+3. Armazenamento
+Os dados operacionais (histórico de publicações, tokens de acesso) são armazenados em serviços de infraestrutura em nuvem utilizados pelo operador do sistema, com acesso restrito.
+
+4. Compartilhamento
+Nenhum dado é compartilhado, vendido ou repassado a terceiros. Os dados são utilizados exclusivamente para o funcionamento do próprio sistema de automação.
+
+5. Revogação de acesso
+O operador pode revogar o acesso do sistema à conta do TikTok a qualquer momento através das configurações de aplicativos conectados do próprio TikTok.
+
+6. Contato
+Dúvidas sobre esta política podem ser enviadas ao operador do sistema através dos canais informados na conta oficial do TikTok associada.
 
